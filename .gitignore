@@ -1,0 +1,4 @@
+# ipynb backups.
+.ipynb_checkpoints
+# py local env.
+promt_engineering_env
