@@ -9,4 +9,4 @@ source promt_engineering_env/bin/activate
 # Install dependencies.
 pip install -r requirements.txt
 
-echo "The env has been configured. To activate run: source promt_engineering_env/bin/activate"
+echo "The env has been configured. To activate run: source promt_engineering_env/bin/activate && jupyter notebook"
